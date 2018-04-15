@@ -1,15 +1,22 @@
 ---
-layout: list
-title: Blog
+layout: blog
+title: This is the first blog post
 slug: blog
 menu: true
 order: 1
 description: >
-  Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-  It’s based on Poole, the Jekyll butler.
-  Open `_featured_tags/hyde.md` to edit this text.
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 accent_color: '#268bd2'
 accent_image:
   background: '#202020'
   overlay:    false
+
+layout: blog
+title: Testing second blog post
+slug: blog
+menu: true
+order: 2
+description: >
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+accent_color: '#b8dd00'
 ---
