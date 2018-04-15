@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hydejack
-slug: hydejack
+title: Résumé 
+slug:  résumé
 menu: true
 order: 2
 description: >
