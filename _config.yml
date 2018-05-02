@@ -46,6 +46,7 @@ logo:                  /assets/icons/icon.png
 author:                 
   name:                Ferdy Anata
   email:               ferdy.anata@gmail.com
+  picture:             /assets/img/self-portrait.jpg
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -182,7 +183,7 @@ include:
 # ========================================================================================
 
 plugins:
-  # - jekyll-avatar
+  - jekyll-avatar
   # - jekyll-default-layout
   - jekyll-feed
   # - jekyll-gist
